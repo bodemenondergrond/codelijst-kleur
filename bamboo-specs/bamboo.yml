@@ -2,7 +2,7 @@
 version: 2
 plan:
   project-key: DOV
-  key: DOVkleur
+  key: DOVKKLEUR
   name: codelijst-kleur
 
 triggers:
@@ -71,7 +71,7 @@ Release:
 ---
 version: 2
 plan:
-  key: DOV-DOVkleur
+  key: DOV-DOVKKLEUR
 
 plan-permissions:
   - groups:
