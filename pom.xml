@@ -8,17 +8,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>be.vlaanderen.bodemenondergrond.data.id.graph</groupId> <!-- e.g. be.vlaanderen.bodemenondergrond.data.id.graph -->
-  <artifactId>codelijst-kleuren</artifactId> <!-- e.g. codelijst-testrepo -->
-  <version>0.1.1-SNAPSHOT</version> <!-- 0.1.0-SNAPSHOT -->
+  <artifactId>codelijst-kleur</artifactId> <!-- e.g. codelijst-testrepo -->
+  <version>0.1.0-SNAPSHOT</version> <!-- 0.1.0-SNAPSHOT -->
   <packaging>jar</packaging>
 
-  <name>codelijst-kleuren</name> <!-- e.g. codelijst-testrepo -->
+  <name>codelijst-kleur</name> <!-- e.g. codelijst-testrepo -->
 
 
   <scm>
-        <connection>scm:git:https://github.com/bodemenondergrond/codelijst-kleuren.git</connection>
-        <developerConnection>scm:git:https://github.com/bodemenondergrond/codelijst-kleuren.git</developerConnection>
-        <url>https://github.com/bodemenondergrond/codelijst-kleuren.git</url>
+        <connection>scm:git:https://github.com/bodemenondergrond/codelijst-kleur.git</connection>
+        <developerConnection>scm:git:https://github.com/bodemenondergrond/codelijst-kleur.git</developerConnection>
+        <url>https://github.com/bodemenondergrond/codelijst-kleur.git</url>
     <tag>HEAD</tag>
   </scm>
   <build>

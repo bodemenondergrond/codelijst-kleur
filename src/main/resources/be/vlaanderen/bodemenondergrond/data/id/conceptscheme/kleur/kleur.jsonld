@@ -1,0 +1,6211 @@
+{
+    "@graph": [
+        {
+            "@id": "ct:414",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "414",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "cs:kleur",
+            "skos:hasTopConcept": [
+                {
+                    "@id": "ct:23"
+                },
+                {
+                    "@id": "ct:323"
+                },
+                {
+                    "@id": "ct:314"
+                },
+                {
+                    "@id": "ct:101"
+                },
+                {
+                    "@id": "ct:427"
+                },
+                {
+                    "@id": "ct:41"
+                },
+                {
+                    "@id": "ct:359"
+                },
+                {
+                    "@id": "ct:332"
+                },
+                {
+                    "@id": "ct:316"
+                },
+                {
+                    "@id": "ct:341"
+                },
+                {
+                    "@id": "ct:470"
+                },
+                {
+                    "@id": "ct:397"
+                },
+                {
+                    "@id": "ct:303"
+                },
+                {
+                    "@id": "ct:346"
+                },
+                {
+                    "@id": "ct:108"
+                },
+                {
+                    "@id": "ct:19"
+                },
+                {
+                    "@id": "ct:348"
+                },
+                {
+                    "@id": "ct:339"
+                },
+                {
+                    "@id": "ct:230"
+                },
+                {
+                    "@id": "ct:206"
+                },
+                {
+                    "@id": "ct:466"
+                },
+                {
+                    "@id": "ct:355"
+                },
+                {
+                    "@id": "ct:439"
+                },
+                {
+                    "@id": "ct:328"
+                },
+                {
+                    "@id": "ct:69"
+                },
+                {
+                    "@id": "ct:446"
+                },
+                {
+                    "@id": "ct:403"
+                },
+                {
+                    "@id": "ct:87"
+                },
+                {
+                    "@id": "ct:130"
+                },
+                {
+                    "@id": "ct:90"
+                },
+                {
+                    "@id": "ct:464"
+                },
+                {
+                    "@id": "ct:373"
+                },
+                {
+                    "@id": "ct:383"
+                },
+                {
+                    "@id": "ct:49"
+                },
+                {
+                    "@id": "ct:233"
+                },
+                {
+                    "@id": "ct:322"
+                },
+                {
+                    "@id": "ct:315"
+                },
+                {
+                    "@id": "ct:340"
+                },
+                {
+                    "@id": "ct:302"
+                },
+                {
+                    "@id": "ct:2"
+                },
+                {
+                    "@id": "ct:107"
+                },
+                {
+                    "@id": "ct:415"
+                },
+                {
+                    "@id": "ct:406"
+                },
+                {
+                    "@id": "ct:431"
+                },
+                {
+                    "@id": "ct:304"
+                },
+                {
+                    "@id": "ct:320"
+                },
+                {
+                    "@id": "ct:93"
+                },
+                {
+                    "@id": "ct:385"
+                },
+                {
+                    "@id": "ct:376"
+                },
+                {
+                    "@id": "ct:422"
+                },
+                {
+                    "@id": "ct:78"
+                },
+                {
+                    "@id": "ct:309"
+                },
+                {
+                    "@id": "ct:440"
+                },
+                {
+                    "@id": "ct:96"
+                },
+                {
+                    "@id": "ct:327"
+                },
+                {
+                    "@id": "ct:25"
+                },
+                {
+                    "@id": "ct:365"
+                },
+                {
+                    "@id": "ct:429"
+                },
+                {
+                    "@id": "ct:454"
+                },
+                {
+                    "@id": "ct:445"
+                },
+                {
+                    "@id": "ct:447"
+                },
+                {
+                    "@id": "ct:399"
+                },
+                {
+                    "@id": "ct:472"
+                },
+                {
+                    "@id": "ct:31"
+                },
+                {
+                    "@id": "ct:391"
+                },
+                {
+                    "@id": "ct:382"
+                },
+                {
+                    "@id": "ct:463"
+                },
+                {
+                    "@id": "ct:434"
+                },
+                {
+                    "@id": "ct:409"
+                },
+                {
+                    "@id": "ct:20"
+                },
+                {
+                    "@id": "ct:452"
+                },
+                {
+                    "@id": "ct:379"
+                },
+                {
+                    "@id": "ct:371"
+                },
+                {
+                    "@id": "ct:54"
+                },
+                {
+                    "@id": "ct:457"
+                },
+                {
+                    "@id": "ct:72"
+                },
+                {
+                    "@id": "ct:459"
+                },
+                {
+                    "@id": "ct:318"
+                },
+                {
+                    "@id": "ct:16"
+                },
+                {
+                    "@id": "ct:394"
+                },
+                {
+                    "@id": "ct:421"
+                },
+                {
+                    "@id": "ct:34"
+                },
+                {
+                    "@id": "ct:52"
+                },
+                {
+                    "@id": "ct:95"
+                },
+                {
+                    "@id": "ct:81"
+                },
+                {
+                    "@id": "ct:102"
+                },
+                {
+                    "@id": "ct:410"
+                },
+                {
+                    "@id": "ct:401"
+                },
+                {
+                    "@id": "ct:364"
+                },
+                {
+                    "@id": "ct:66"
+                },
+                {
+                    "@id": "ct:57"
+                },
+                {
+                    "@id": "ct:357"
+                },
+                {
+                    "@id": "ct:84"
+                },
+                {
+                    "@id": "ct:75"
+                },
+                {
+                    "@id": "ct:4"
+                },
+                {
+                    "@id": "ct:28"
+                },
+                {
+                    "@id": "ct:408"
+                },
+                {
+                    "@id": "ct:433"
+                },
+                {
+                    "@id": "ct:46"
+                },
+                {
+                    "@id": "ct:426"
+                },
+                {
+                    "@id": "ct:378"
+                },
+                {
+                    "@id": "ct:451"
+                },
+                {
+                    "@id": "ct:204"
+                },
+                {
+                    "@id": "ct:310"
+                },
+                {
+                    "@id": "ct:64"
+                },
+                {
+                    "@id": "ct:370"
+                },
+                {
+                    "@id": "ct:10"
+                },
+                {
+                    "@id": "ct:413"
+                },
+                {
+                    "@id": "ct:98"
+                },
+                {
+                    "@id": "ct:131"
+                },
+                {
+                    "@id": "ct:458"
+                },
+                {
+                    "@id": "ct:367"
+                },
+                {
+                    "@id": "ct:15"
+                },
+                {
+                    "@id": "ct:33"
+                },
+                {
+                    "@id": "ct:333"
+                },
+                {
+                    "@id": "ct:465"
+                },
+                {
+                    "@id": "ct:384"
+                },
+                {
+                    "@id": "ct:9"
+                },
+                {
+                    "@id": "ct:351"
+                },
+                {
+                    "@id": "ct:51"
+                },
+                {
+                    "@id": "ct:306"
+                },
+                {
+                    "@id": "ct:438"
+                },
+                {
+                    "@id": "ct:22"
+                },
+                {
+                    "@id": "ct:13"
+                },
+                {
+                    "@id": "ct:313"
+                },
+                {
+                    "@id": "ct:134"
+                },
+                {
+                    "@id": "ct:442"
+                },
+                {
+                    "@id": "ct:83"
+                },
+                {
+                    "@id": "ct:40"
+                },
+                {
+                    "@id": "ct:331"
+                },
+                {
+                    "@id": "ct:27"
+                },
+                {
+                    "@id": "ct:460"
+                },
+                {
+                    "@id": "ct:3"
+                },
+                {
+                    "@id": "ct:105"
+                },
+                {
+                    "@id": "ct:45"
+                },
+                {
+                    "@id": "ct:345"
+                },
+                {
+                    "@id": "ct:18"
+                },
+                {
+                    "@id": "ct:336"
+                },
+                {
+                    "@id": "ct:123"
+                },
+                {
+                    "@id": "ct:396"
+                },
+                {
+                    "@id": "ct:203"
+                },
+                {
+                    "@id": "ct:63"
+                },
+                {
+                    "@id": "ct:338"
+                },
+                {
+                    "@id": "ct:325"
+                },
+                {
+                    "@id": "ct:414"
+                },
+                {
+                    "@id": "ct:366"
+                },
+                {
+                    "@id": "ct:71"
+                },
+                {
+                    "@id": "ct:343"
+                },
+                {
+                    "@id": "ct:59"
+                },
+                {
+                    "@id": "ct:77"
+                },
+                {
+                    "@id": "ct:8"
+                },
+                {
+                    "@id": "ct:360"
+                },
+                {
+                    "@id": "ct:60"
+                },
+                {
+                    "@id": "ct:48"
+                },
+                {
+                    "@id": "ct:232"
+                },
+                {
+                    "@id": "ct:21"
+                },
+                {
+                    "@id": "ct:312"
+                },
+                {
+                    "@id": "ct:208"
+                },
+                {
+                    "@id": "ct:361"
+                },
+                {
+                    "@id": "ct:468"
+                },
+                {
+                    "@id": "ct:330"
+                },
+                {
+                    "@id": "ct:104"
+                },
+                {
+                    "@id": "ct:319"
+                },
+                {
+                    "@id": "ct:301"
+                },
+                {
+                    "@id": "ct:106"
+                },
+                {
+                    "@id": "ct:89"
+                },
+                {
+                    "@id": "ct:430"
+                },
+                {
+                    "@id": "ct:405"
+                },
+                {
+                    "@id": "ct:337"
+                },
+                {
+                    "@id": "ct:92"
+                },
+                {
+                    "@id": "ct:1"
+                },
+                {
+                    "@id": "ct:375"
+                },
+                {
+                    "@id": "ct:308"
+                },
+                {
+                    "@id": "ct:324"
+                },
+                {
+                    "@id": "ct:428"
+                },
+                {
+                    "@id": "ct:326"
+                },
+                {
+                    "@id": "ct:317"
+                },
+                {
+                    "@id": "ct:342"
+                },
+                {
+                    "@id": "ct:471"
+                },
+                {
+                    "@id": "ct:398"
+                },
+                {
+                    "@id": "ct:444"
+                },
+                {
+                    "@id": "ct:390"
+                },
+                {
+                    "@id": "ct:30"
+                },
+                {
+                    "@id": "ct:29"
+                },
+                {
+                    "@id": "ct:462"
+                },
+                {
+                    "@id": "ct:417"
+                },
+                {
+                    "@id": "ct:369"
+                },
+                {
+                    "@id": "ct:381"
+                },
+                {
+                    "@id": "ct:349"
+                },
+                {
+                    "@id": "ct:47"
+                },
+                {
+                    "@id": "ct:231"
+                },
+                {
+                    "@id": "ct:387"
+                },
+                {
+                    "@id": "ct:424"
+                },
+                {
+                    "@id": "ct:65"
+                },
+                {
+                    "@id": "ct:467"
+                },
+                {
+                    "@id": "ct:356"
+                },
+                {
+                    "@id": "ct:469"
+                },
+                {
+                    "@id": "ct:223"
+                },
+                {
+                    "@id": "ct:329"
+                },
+                {
+                    "@id": "ct:456"
+                },
+                {
+                    "@id": "ct:404"
+                },
+                {
+                    "@id": "ct:42"
+                },
+                {
+                    "@id": "ct:449"
+                },
+                {
+                    "@id": "ct:91"
+                },
+                {
+                    "@id": "ct:474"
+                },
+                {
+                    "@id": "ct:374"
+                },
+                {
+                    "@id": "ct:393"
+                },
+                {
+                    "@id": "ct:94"
+                },
+                {
+                    "@id": "ct:234"
+                },
+                {
+                    "@id": "ct:80"
+                },
+                {
+                    "@id": "ct:363"
+                },
+                {
+                    "@id": "ct:443"
+                },
+                {
+                    "@id": "ct:400"
+                },
+                {
+                    "@id": "ct:56"
+                },
+                {
+                    "@id": "ct:461"
+                },
+                {
+                    "@id": "ct:416"
+                },
+                {
+                    "@id": "ct:74"
+                },
+                {
+                    "@id": "ct:305"
+                },
+                {
+                    "@id": "ct:380"
+                },
+                {
+                    "@id": "ct:386"
+                },
+                {
+                    "@id": "ct:432"
+                },
+                {
+                    "@id": "ct:423"
+                },
+                {
+                    "@id": "ct:407"
+                },
+                {
+                    "@id": "ct:79"
+                },
+                {
+                    "@id": "ct:425"
+                },
+                {
+                    "@id": "ct:441"
+                },
+                {
+                    "@id": "ct:377"
+                },
+                {
+                    "@id": "ct:450"
+                },
+                {
+                    "@id": "ct:97"
+                },
+                {
+                    "@id": "ct:412"
+                },
+                {
+                    "@id": "ct:455"
+                },
+                {
+                    "@id": "ct:344"
+                },
+                {
+                    "@id": "ct:68"
+                },
+                {
+                    "@id": "ct:473"
+                },
+                {
+                    "@id": "ct:14"
+                },
+                {
+                    "@id": "ct:448"
+                },
+                {
+                    "@id": "ct:86"
+                },
+                {
+                    "@id": "ct:392"
+                },
+                {
+                    "@id": "ct:32"
+                },
+                {
+                    "@id": "ct:6"
+                },
+                {
+                    "@id": "ct:350"
+                },
+                {
+                    "@id": "ct:419"
+                },
+                {
+                    "@id": "ct:435"
+                },
+                {
+                    "@id": "ct:50"
+                },
+                {
+                    "@id": "ct:437"
+                },
+                {
+                    "@id": "ct:321"
+                },
+                {
+                    "@id": "ct:453"
+                },
+                {
+                    "@id": "ct:362"
+                },
+                {
+                    "@id": "ct:372"
+                },
+                {
+                    "@id": "ct:55"
+                },
+                {
+                    "@id": "ct:12"
+                },
+                {
+                    "@id": "ct:133"
+                },
+                {
+                    "@id": "ct:73"
+                },
+                {
+                    "@id": "ct:26"
+                },
+                {
+                    "@id": "ct:17"
+                },
+                {
+                    "@id": "ct:44"
+                },
+                {
+                    "@id": "ct:335"
+                },
+                {
+                    "@id": "ct:395"
+                },
+                {
+                    "@id": "ct:202"
+                },
+                {
+                    "@id": "ct:62"
+                },
+                {
+                    "@id": "ct:53"
+                },
+                {
+                    "@id": "ct:353"
+                },
+                {
+                    "@id": "ct:411"
+                },
+                {
+                    "@id": "ct:24"
+                },
+                {
+                    "@id": "ct:67"
+                },
+                {
+                    "@id": "ct:358"
+                },
+                {
+                    "@id": "ct:70"
+                },
+                {
+                    "@id": "ct:85"
+                },
+                {
+                    "@id": "ct:58"
+                },
+                {
+                    "@id": "ct:5"
+                },
+                {
+                    "@id": "ct:418"
+                },
+                {
+                    "@id": "ct:76"
+                },
+                {
+                    "@id": "ct:7"
+                },
+                {
+                    "@id": "ct:347"
+                },
+                {
+                    "@id": "ct:436"
+                },
+                {
+                    "@id": "ct:388"
+                },
+                {
+                    "@id": "ct:11"
+                },
+                {
+                    "@id": "ct:311"
+                },
+                {
+                    "@id": "ct:207"
+                },
+                {
+                    "@id": "ct:132"
+                },
+                {
+                    "@id": "ct:99"
+                },
+                {
+                    "@id": "ct:368"
+                },
+                {
+                    "@id": "ct:82"
+                },
+                {
+                    "@id": "ct:103"
+                },
+                {
+                    "@id": "ct:402"
+                },
+                {
+                    "@id": "ct:43"
+                },
+                {
+                    "@id": "ct:334"
+                },
+                {
+                    "@id": "ct:88"
+                },
+                {
+                    "@id": "ct:201"
+                },
+                {
+                    "@id": "ct:61"
+                },
+                {
+                    "@id": "ct:420"
+                },
+                {
+                    "@id": "ct:352"
+                },
+                {
+                    "@id": "ct:307"
+                },
+                {
+                    "@id": "ct:0"
+                }
+            ]
+        },
+        {
+            "@id": "ct:435",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "435",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:26",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "onbepaald"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "26",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:456",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "456",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:47",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geeloranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "47",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:101",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "101",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:68",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "68",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:4",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "4",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:314",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "314",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:89",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigegroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "89",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:335",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okergeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "335",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:356",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "356",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:377",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestgrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "377",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:398",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "398",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:406",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "rooskaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "406",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:427",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigezwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "427",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:18",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelgrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "18",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:448",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witgrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "448",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:469",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "469",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:60",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "60",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:306",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauworanje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "306",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:81",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakiolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "81",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:327",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauveolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "327",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:348",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroengeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "348",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:369",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjeoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "369",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:390",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodgeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "390",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:206",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkergroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "206",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:419",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakiwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "419",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:10",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "10",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:440",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "440",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:31",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "31",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:461",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartgeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "461",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:52",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "52",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:106",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "106",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:9",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "wit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "9",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:73",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakibeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "73",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:319",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauvebeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "319",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:94",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigeoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "94",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:340",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "340",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:361",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjebruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "361",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:382",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "382",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:411",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "411",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:432",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "432",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:23",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "23",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:453",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "453",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:44",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "44",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:474",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "474",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:65",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "65",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:1",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:311",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "311",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:86",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigeblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "86",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:332",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "332",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:353",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "353",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:374",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "374",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:395",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "395",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:403",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosgeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "403",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:232",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkeroker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "232",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:424",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "424",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:15",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruingrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "15",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:445",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "445",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:466",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "466",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:57",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "57",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:303",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "303",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:132",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "132",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:78",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakigroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "78",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:324",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauvegroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "324",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:99",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "99",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:345",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "345",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:366",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjemauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "366",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:387",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "387",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:203",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "203",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:416",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "416",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:437",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "437",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:28",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bleek / ontkleurd"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "28",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:458",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "458",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:49",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "49",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:103",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "103",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:6",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "6",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:70",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "70",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:316",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "316",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:91",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigemauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "91",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:337",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okergroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "337",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:358",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "358",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:379",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "379",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:408",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "408",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:429",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "429",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:20",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "20",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:450",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "450",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:41",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "41",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:471",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "471",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:62",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "62",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:308",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "308",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:83",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakiroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "83",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:329",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauveroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "329",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:350",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroengroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "350",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:371",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjerood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "371",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:392",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "392",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:208",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "208",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:400",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "400",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:421",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "421",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:12",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwgrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "12",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:442",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "442",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:33",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "33",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "colt:kleur",
+            "skos:member": [
+                {
+                    "@id": "ct:317"
+                },
+                {
+                    "@id": "ct:54"
+                },
+                {
+                    "@id": "ct:351"
+                },
+                {
+                    "@id": "ct:429"
+                },
+                {
+                    "@id": "ct:450"
+                },
+                {
+                    "@id": "ct:202"
+                },
+                {
+                    "@id": "ct:335"
+                },
+                {
+                    "@id": "ct:301"
+                },
+                {
+                    "@id": "ct:337"
+                },
+                {
+                    "@id": "ct:102"
+                },
+                {
+                    "@id": "ct:468"
+                },
+                {
+                    "@id": "ct:434"
+                },
+                {
+                    "@id": "ct:95"
+                },
+                {
+                    "@id": "ct:436"
+                },
+                {
+                    "@id": "ct:368"
+                },
+                {
+                    "@id": "ct:22"
+                },
+                {
+                    "@id": "ct:415"
+                },
+                {
+                    "@id": "ct:470"
+                },
+                {
+                    "@id": "ct:58"
+                },
+                {
+                    "@id": "ct:60"
+                },
+                {
+                    "@id": "ct:400"
+                },
+                {
+                    "@id": "ct:355"
+                },
+                {
+                    "@id": "ct:321"
+                },
+                {
+                    "@id": "ct:454"
+                },
+                {
+                    "@id": "ct:388"
+                },
+                {
+                    "@id": "ct:208"
+                },
+                {
+                    "@id": "ct:99"
+                },
+                {
+                    "@id": "ct:78"
+                },
+                {
+                    "@id": "ct:3"
+                },
+                {
+                    "@id": "ct:80"
+                },
+                {
+                    "@id": "ct:26"
+                },
+                {
+                    "@id": "ct:419"
+                },
+                {
+                    "@id": "ct:341"
+                },
+                {
+                    "@id": "ct:422"
+                },
+                {
+                    "@id": "ct:474"
+                },
+                {
+                    "@id": "ct:10"
+                },
+                {
+                    "@id": "ct:325"
+                },
+                {
+                    "@id": "ct:327"
+                },
+                {
+                    "@id": "ct:45"
+                },
+                {
+                    "@id": "ct:306"
+                },
+                {
+                    "@id": "ct:371"
+                },
+                {
+                    "@id": "ct:439"
+                },
+                {
+                    "@id": "ct:442"
+                },
+                {
+                    "@id": "ct:9"
+                },
+                {
+                    "@id": "ct:376"
+                },
+                {
+                    "@id": "ct:30"
+                },
+                {
+                    "@id": "ct:345"
+                },
+                {
+                    "@id": "ct:405"
+                },
+                {
+                    "@id": "ct:14"
+                },
+                {
+                    "@id": "ct:391"
+                },
+                {
+                    "@id": "ct:49"
+                },
+                {
+                    "@id": "ct:462"
+                },
+                {
+                    "@id": "ct:362"
+                },
+                {
+                    "@id": "ct:313"
+                },
+                {
+                    "@id": "ct:315"
+                },
+                {
+                    "@id": "ct:446"
+                },
+                {
+                    "@id": "ct:448"
+                },
+                {
+                    "@id": "ct:34"
+                },
+                {
+                    "@id": "ct:427"
+                },
+                {
+                    "@id": "ct:69"
+                },
+                {
+                    "@id": "ct:409"
+                },
+                {
+                    "@id": "ct:134"
+                },
+                {
+                    "@id": "ct:395"
+                },
+                {
+                    "@id": "ct:333"
+                },
+                {
+                    "@id": "ct:413"
+                },
+                {
+                    "@id": "ct:466"
+                },
+                {
+                    "@id": "ct:40"
+                },
+                {
+                    "@id": "ct:233"
+                },
+                {
+                    "@id": "ct:18"
+                },
+                {
+                    "@id": "ct:366"
+                },
+                {
+                    "@id": "ct:92"
+                },
+                {
+                    "@id": "ct:353"
+                },
+                {
+                    "@id": "ct:433"
+                },
+                {
+                    "@id": "ct:204"
+                },
+                {
+                    "@id": "ct:21"
+                },
+                {
+                    "@id": "ct:386"
+                },
+                {
+                    "@id": "ct:206"
+                },
+                {
+                    "@id": "ct:104"
+                },
+                {
+                    "@id": "ct:339"
+                },
+                {
+                    "@id": "ct:57"
+                },
+                {
+                    "@id": "ct:106"
+                },
+                {
+                    "@id": "ct:318"
+                },
+                {
+                    "@id": "ct:383"
+                },
+                {
+                    "@id": "ct:320"
+                },
+                {
+                    "@id": "ct:453"
+                },
+                {
+                    "@id": "ct:357"
+                },
+                {
+                    "@id": "ct:64"
+                },
+                {
+                    "@id": "ct:359"
+                },
+                {
+                    "@id": "ct:43"
+                },
+                {
+                    "@id": "ct:340"
+                },
+                {
+                    "@id": "ct:25"
+                },
+                {
+                    "@id": "ct:418"
+                },
+                {
+                    "@id": "ct:421"
+                },
+                {
+                    "@id": "ct:473"
+                },
+                {
+                    "@id": "ct:7"
+                },
+                {
+                    "@id": "ct:82"
+                },
+                {
+                    "@id": "ct:324"
+                },
+                {
+                    "@id": "ct:84"
+                },
+                {
+                    "@id": "ct:374"
+                },
+                {
+                    "@id": "ct:457"
+                },
+                {
+                    "@id": "ct:403"
+                },
+                {
+                    "@id": "ct:1"
+                },
+                {
+                    "@id": "ct:441"
+                },
+                {
+                    "@id": "ct:47"
+                },
+                {
+                    "@id": "ct:52"
+                },
+                {
+                    "@id": "ct:344"
+                },
+                {
+                    "@id": "ct:29"
+                },
+                {
+                    "@id": "ct:13"
+                },
+                {
+                    "@id": "ct:378"
+                },
+                {
+                    "@id": "ct:88"
+                },
+                {
+                    "@id": "ct:461"
+                },
+                {
+                    "@id": "ct:67"
+                },
+                {
+                    "@id": "ct:407"
+                },
+                {
+                    "@id": "ct:309"
+                },
+                {
+                    "@id": "ct:70"
+                },
+                {
+                    "@id": "ct:312"
+                },
+                {
+                    "@id": "ct:72"
+                },
+                {
+                    "@id": "ct:132"
+                },
+                {
+                    "@id": "ct:393"
+                },
+                {
+                    "@id": "ct:445"
+                },
+                {
+                    "@id": "ct:411"
+                },
+                {
+                    "@id": "ct:398"
+                },
+                {
+                    "@id": "ct:33"
+                },
+                {
+                    "@id": "ct:90"
+                },
+                {
+                    "@id": "ct:332"
+                },
+                {
+                    "@id": "ct:17"
+                },
+                {
+                    "@id": "ct:465"
+                },
+                {
+                    "@id": "ct:431"
+                },
+                {
+                    "@id": "ct:76"
+                },
+                {
+                    "@id": "ct:55"
+                },
+                {
+                    "@id": "ct:352"
+                },
+                {
+                    "@id": "ct:381"
+                },
+                {
+                    "@id": "ct:451"
+                },
+                {
+                    "@id": "ct:203"
+                },
+                {
+                    "@id": "ct:336"
+                },
+                {
+                    "@id": "ct:96"
+                },
+                {
+                    "@id": "ct:62"
+                },
+                {
+                    "@id": "ct:302"
+                },
+                {
+                    "@id": "ct:304"
+                },
+                {
+                    "@id": "ct:435"
+                },
+                {
+                    "@id": "ct:437"
+                },
+                {
+                    "@id": "ct:23"
+                },
+                {
+                    "@id": "ct:416"
+                },
+                {
+                    "@id": "ct:59"
+                },
+                {
+                    "@id": "ct:108"
+                },
+                {
+                    "@id": "ct:471"
+                },
+                {
+                    "@id": "ct:223"
+                },
+                {
+                    "@id": "ct:401"
+                },
+                {
+                    "@id": "ct:356"
+                },
+                {
+                    "@id": "ct:322"
+                },
+                {
+                    "@id": "ct:455"
+                },
+                {
+                    "@id": "ct:79"
+                },
+                {
+                    "@id": "ct:4"
+                },
+                {
+                    "@id": "ct:81"
+                },
+                {
+                    "@id": "ct:27"
+                },
+                {
+                    "@id": "ct:50"
+                },
+                {
+                    "@id": "ct:342"
+                },
+                {
+                    "@id": "ct:423"
+                },
+                {
+                    "@id": "ct:425"
+                },
+                {
+                    "@id": "ct:11"
+                },
+                {
+                    "@id": "ct:86"
+                },
+                {
+                    "@id": "ct:328"
+                },
+                {
+                    "@id": "ct:307"
+                },
+                {
+                    "@id": "ct:310"
+                },
+                {
+                    "@id": "ct:372"
+                },
+                {
+                    "@id": "ct:443"
+                },
+                {
+                    "@id": "ct:31"
+                },
+                {
+                    "@id": "ct:346"
+                },
+                {
+                    "@id": "ct:348"
+                },
+                {
+                    "@id": "ct:406"
+                },
+                {
+                    "@id": "ct:15"
+                },
+                {
+                    "@id": "ct:330"
+                },
+                {
+                    "@id": "ct:392"
+                },
+                {
+                    "@id": "ct:230"
+                },
+                {
+                    "@id": "ct:463"
+                },
+                {
+                    "@id": "ct:363"
+                },
+                {
+                    "@id": "ct:314"
+                },
+                {
+                    "@id": "ct:74"
+                },
+                {
+                    "@id": "ct:316"
+                },
+                {
+                    "@id": "ct:449"
+                },
+                {
+                    "@id": "ct:428"
+                },
+                {
+                    "@id": "ct:350"
+                },
+                {
+                    "@id": "ct:130"
+                },
+                {
+                    "@id": "ct:201"
+                },
+                {
+                    "@id": "ct:41"
+                },
+                {
+                    "@id": "ct:19"
+                },
+                {
+                    "@id": "ct:101"
+                },
+                {
+                    "@id": "ct:94"
+                },
+                {
+                    "@id": "ct:234"
+                },
+                {
+                    "@id": "ct:334"
+                },
+                {
+                    "@id": "ct:396"
+                },
+                {
+                    "@id": "ct:367"
+                },
+                {
+                    "@id": "ct:380"
+                },
+                {
+                    "@id": "ct:467"
+                },
+                {
+                    "@id": "ct:469"
+                },
+                {
+                    "@id": "ct:93"
+                },
+                {
+                    "@id": "ct:61"
+                },
+                {
+                    "@id": "ct:207"
+                },
+                {
+                    "@id": "ct:387"
+                },
+                {
+                    "@id": "ct:105"
+                },
+                {
+                    "@id": "ct:98"
+                },
+                {
+                    "@id": "ct:107"
+                },
+                {
+                    "@id": "ct:2"
+                },
+                {
+                    "@id": "ct:319"
+                },
+                {
+                    "@id": "ct:384"
+                },
+                {
+                    "@id": "ct:65"
+                },
+                {
+                    "@id": "ct:358"
+                },
+                {
+                    "@id": "ct:44"
+                },
+                {
+                    "@id": "ct:326"
+                },
+                {
+                    "@id": "ct:459"
+                },
+                {
+                    "@id": "ct:370"
+                },
+                {
+                    "@id": "ct:6"
+                },
+                {
+                    "@id": "ct:375"
+                },
+                {
+                    "@id": "ct:8"
+                },
+                {
+                    "@id": "ct:85"
+                },
+                {
+                    "@id": "ct:402"
+                },
+                {
+                    "@id": "ct:404"
+                },
+                {
+                    "@id": "ct:390"
+                },
+                {
+                    "@id": "ct:48"
+                },
+                {
+                    "@id": "ct:361"
+                },
+                {
+                    "@id": "ct:53"
+                },
+                {
+                    "@id": "ct:447"
+                },
+                {
+                    "@id": "ct:379"
+                },
+                {
+                    "@id": "ct:89"
+                },
+                {
+                    "@id": "ct:68"
+                },
+                {
+                    "@id": "ct:408"
+                },
+                {
+                    "@id": "ct:71"
+                },
+                {
+                    "@id": "ct:73"
+                },
+                {
+                    "@id": "ct:133"
+                },
+                {
+                    "@id": "ct:394"
+                },
+                {
+                    "@id": "ct:412"
+                },
+                {
+                    "@id": "ct:232"
+                },
+                {
+                    "@id": "ct:414"
+                },
+                {
+                    "@id": "ct:399"
+                },
+                {
+                    "@id": "ct:365"
+                },
+                {
+                    "@id": "ct:91"
+                },
+                {
+                    "@id": "ct:432"
+                },
+                {
+                    "@id": "ct:20"
+                },
+                {
+                    "@id": "ct:77"
+                },
+                {
+                    "@id": "ct:103"
+                },
+                {
+                    "@id": "ct:385"
+                },
+                {
+                    "@id": "ct:56"
+                },
+                {
+                    "@id": "ct:338"
+                },
+                {
+                    "@id": "ct:369"
+                },
+                {
+                    "@id": "ct:382"
+                },
+                {
+                    "@id": "ct:452"
+                },
+                {
+                    "@id": "ct:303"
+                },
+                {
+                    "@id": "ct:97"
+                },
+                {
+                    "@id": "ct:305"
+                },
+                {
+                    "@id": "ct:63"
+                },
+                {
+                    "@id": "ct:42"
+                },
+                {
+                    "@id": "ct:123"
+                },
+                {
+                    "@id": "ct:438"
+                },
+                {
+                    "@id": "ct:24"
+                },
+                {
+                    "@id": "ct:417"
+                },
+                {
+                    "@id": "ct:420"
+                },
+                {
+                    "@id": "ct:472"
+                },
+                {
+                    "@id": "ct:373"
+                },
+                {
+                    "@id": "ct:323"
+                },
+                {
+                    "@id": "ct:83"
+                },
+                {
+                    "@id": "ct:456"
+                },
+                {
+                    "@id": "ct:0"
+                },
+                {
+                    "@id": "ct:458"
+                },
+                {
+                    "@id": "ct:440"
+                },
+                {
+                    "@id": "ct:5"
+                },
+                {
+                    "@id": "ct:46"
+                },
+                {
+                    "@id": "ct:51"
+                },
+                {
+                    "@id": "ct:28"
+                },
+                {
+                    "@id": "ct:343"
+                },
+                {
+                    "@id": "ct:424"
+                },
+                {
+                    "@id": "ct:426"
+                },
+                {
+                    "@id": "ct:12"
+                },
+                {
+                    "@id": "ct:377"
+                },
+                {
+                    "@id": "ct:87"
+                },
+                {
+                    "@id": "ct:329"
+                },
+                {
+                    "@id": "ct:460"
+                },
+                {
+                    "@id": "ct:66"
+                },
+                {
+                    "@id": "ct:308"
+                },
+                {
+                    "@id": "ct:311"
+                },
+                {
+                    "@id": "ct:131"
+                },
+                {
+                    "@id": "ct:444"
+                },
+                {
+                    "@id": "ct:410"
+                },
+                {
+                    "@id": "ct:32"
+                },
+                {
+                    "@id": "ct:397"
+                },
+                {
+                    "@id": "ct:347"
+                },
+                {
+                    "@id": "ct:360"
+                },
+                {
+                    "@id": "ct:349"
+                },
+                {
+                    "@id": "ct:16"
+                },
+                {
+                    "@id": "ct:331"
+                },
+                {
+                    "@id": "ct:231"
+                },
+                {
+                    "@id": "ct:430"
+                },
+                {
+                    "@id": "ct:464"
+                },
+                {
+                    "@id": "ct:364"
+                },
+                {
+                    "@id": "ct:75"
+                }
+            ],
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Collectie van kleur."
+            },
+            "dc:identifier": "kleur",
+            "skos:mappingRelation": {
+                "@id": "file:///tmp/RtmpJV8pU7/kleur"
+            },
+            "skos:inScheme": {
+                "@id": "file:///tmp/RtmpJV8pU7/cs"
+            },
+            "@type": "skos:Collection"
+        },
+        {
+            "@id": "ct:317",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "317",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:54",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "54",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:351",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "351",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:202",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "202",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:301",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwgeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "301",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:102",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "102",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:468",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "468",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:434",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauvezwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "434",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:95",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigeroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "95",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:436",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "436",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:368",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjeolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "368",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:22",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bontgekleurd"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "22",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:415",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "415",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:470",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "470",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:58",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "58",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:355",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "355",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:321",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauvebruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "321",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:454",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "454",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:388",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "388",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:3",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "3",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:80",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakioker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "80",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:341",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okeroranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "341",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:422",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "422",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:325",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauvekaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "325",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:45",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geeloker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "45",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:439",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "rooszwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "439",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:376",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestgeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "376",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:30",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "30",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:405",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "405",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:14",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruingeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "14",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:391",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodgrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "391",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:462",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartgrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "462",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:362",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjegeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "362",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:313",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "313",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:315",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "315",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:446",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "446",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:34",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "34",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:69",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "69",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:409",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "409",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:134",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "134",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:333",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "333",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:413",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigewit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "413",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:40",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "40",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:233",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "233",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:92",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigeoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "92",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:433",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakizwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "433",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:204",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkergeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "204",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:21",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "21",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:386",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "386",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:104",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtgeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "104",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:339",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okermauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "339",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:318",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "318",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:383",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "383",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:320",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauveblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "320",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:357",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "357",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:64",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groengrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "64",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:359",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjebeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "359",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:43",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "43",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:25",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsgeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "25",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:418",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "418",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:473",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtrood / roos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "473",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:7",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "7",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:82",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakioranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "82",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:84",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakirood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "84",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:457",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "457",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:441",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "441",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:344",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "344",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:29",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "29",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:13",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "13",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:378",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "378",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:88",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigegrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "88",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:67",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "67",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:407",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "407",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:309",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "309",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:312",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "312",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:72",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "72",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:393",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "393",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:90",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigekaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "90",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:17",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "17",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:465",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "465",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:431",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijszwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "431",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:76",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakigeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "76",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:55",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "55",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:352",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "352",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:381",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "381",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:451",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "451",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:336",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okergrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "336",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:96",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigerood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "96",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:302",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "302",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:304",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "304",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:59",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "59",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:108",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "108",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:223",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkermauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "223",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:401",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "401",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:322",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauvegeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "322",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:455",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "455",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:79",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakimauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "79",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:27",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkergrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "27",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:50",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "50",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:342",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "342",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:423",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjewit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "423",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:425",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "425",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:11",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigebruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "11",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:328",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauveoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "328",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:307",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "307",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:310",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruinblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "310",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:372",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjeroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "372",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:443",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerwit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "443",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:346",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "346",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:330",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauverood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "330",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:230",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "230",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:463",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "463",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:363",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjegrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "363",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:74",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakiblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "74",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:449",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "449",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:428",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "428",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:130",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "130",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:201",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "201",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:19",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "19",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:234",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkeroranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "234",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:334",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "334",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:396",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "396",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:367",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjeoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "367",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:380",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "380",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:467",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "467",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:93",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigeolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "93",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:61",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "61",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:207",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "207",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:105",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtgrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "105",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:98",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "98",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:107",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "107",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:2",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "2",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:384",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "384",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:326",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauveoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "326",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:459",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "459",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:370",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjeroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "370",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:375",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "375",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:8",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "rood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "8",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:85",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakiroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "85",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:402",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "402",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:404",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosgrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "404",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:48",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelroest"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "48",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:53",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijskaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "53",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:447",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witgeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "447",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:71",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "71",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:133",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "133",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:394",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "394",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:412",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "412",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:399",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "399",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:365",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjekaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "365",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:77",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakigrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "77",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:385",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "385",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:56",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "56",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:338",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "338",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:452",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witoker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "452",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:97",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigeroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "97",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:305",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "blauwolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "305",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:63",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groengeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "63",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:42",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "42",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:123",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "123",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:438",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "438",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:24",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "24",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:417",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijswit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "417",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:420",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauvewit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "420",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:472",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "paarsbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "472",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:373",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roestbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "373",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:323",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauvegrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "323",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:0",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "onbekend"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "0",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:5",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "5",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:46",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelolijfgroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "46",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:51",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "grijsblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "51",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:343",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "okerrood"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "343",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:426",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "rooswit"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "426",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:87",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "beigegeel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "87",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:460",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "460",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:66",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "groenmauve"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "66",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:131",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "lichtroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "131",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:444",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "witbeige"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "444",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:410",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roosoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "410",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:32",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oker"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "32",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:397",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "roodoranje"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "397",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:347",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroenbruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "347",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:360",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjeblauw"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "360",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:349",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "olijfgroengrijs"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "349",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:16",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "bruingroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "16",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:331",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "mauveroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "331",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:231",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "donkerroos"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "231",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:430",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "geelzwart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "430",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:464",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "zwartkaki"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "464",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:364",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "oranjegroen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "364",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:75",
+            "skos:topConceptOf": {
+                "@id": "cs:kleur"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "kakibruin"
+            },
+            "skos:inScheme": {
+                "@id": "cs:kleur"
+            },
+            "dc:identifier": "75",
+            "@type": "skos:Concept"
+        }
+    ],
+    "@context": {
+        "cs": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "ct": "https://data.bodemenondergrond.vlaanderen.be/id/concept/kleur/",
+        "dct": "http://purl.org/dc/terms/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "colt": "https://data.bodemenondergrond.vlaanderen.be/id/collection/kleur/",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#"
+    }
+}

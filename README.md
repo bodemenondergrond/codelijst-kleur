@@ -1,8 +1,8 @@
-# codelijst-kleuren
+# codelijst-kleur
 
 ## Samenvatting
 
-De codelijst 'kleuren' bevat eenduidige benamingen van ...
+De codelijst 'kleur' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud

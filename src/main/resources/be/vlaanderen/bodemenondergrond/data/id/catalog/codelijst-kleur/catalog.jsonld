@@ -1,0 +1,938 @@
+{
+    "@graph": [
+        {
+            "@id": "omg_dataset:codelijst-kleur",
+            "dcat:landingPage": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/catalog/codelijst.html"
+            },
+            "dcterms:temporal": {
+                "@id": "omg_id:periodoftime/dataset_omg"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_dataset:codelijst-kleur"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcat:contactPoint": {
+                "@id": "omg_id:vcard/helpdesk"
+            },
+            "dcterms:hasVersion": [
+                {
+                    "@id": "omg_dataset:codelijst-kleur.0.1.1"
+                },
+                {
+                    "@id": "omg_dataset:codelijst-kleur.0.1.0"
+                }
+            ],
+            "dcterms:license": {
+                "@id": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Deze dataset bevat een lijst van testconcepten, die gebruikt worden binnen het beleidsdomein bodemenondergrond van de Vlaamse Overheid."
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur"
+            },
+            "void:rootResource": {
+                "@id": "omg_conceptscheme:kleur"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/dataset/codelijst-kleur.html"
+            },
+            "dcterms:language": {
+                "@id": "language:NLD"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "eurovoc:2407"
+                },
+                {
+                    "@id": "datatheme_be:ENVI"
+                },
+                {
+                    "@id": "datatheme_eu:ENVI"
+                },
+                {
+                    "@id": "gemet:10087"
+                }
+            ],
+            "dc:language": {
+                "@language": "nl",
+                "@value": "nl"
+            },
+            "dcterms:publisher": {
+                "@id": "ovo:OVO003323"
+            },
+            "dcterms:spatial": [
+                {
+                    "@id": "country:BEL"
+                },
+                {
+                    "@id": "https://www.geonames.org/3337388/flanders"
+                }
+            ],
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.dataset.codelijst-kleur",
+            "dcterms:alternative": {
+                "@language": "nl",
+                "@value": "Dataset codelijst kleur"
+            },
+            "dcterms:accrualPeriodicity": {
+                "@id": "frequency:IRREG"
+            },
+            "@type": "dcat:Dataset",
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur"
+            }
+        },
+        {
+            "@id": "omg_dataset:codelijst-kleur.0.1.1",
+            "dcat:contactPoint": {
+                "@id": "omg_id:vcard/helpdesk"
+            },
+            "dcterms:publisher": {
+                "@id": "ovo:OVO003323"
+            },
+            "dcterms:temporal": {
+                "@id": "omg_id:periodoftime/dataset_omg"
+            },
+            "dcterms:isVersionOf": {
+                "@id": "omg_dataset:codelijst-kleur"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "datatheme_eu:ENVI"
+                },
+                {
+                    "@id": "eurovoc:2407"
+                },
+                {
+                    "@id": "gemet:10087"
+                },
+                {
+                    "@id": "datatheme_be:ENVI"
+                }
+            ],
+            "dcterms:license": {
+                "@id": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0"
+            },
+            "@type": "dcat:Dataset",
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur (0.1.1)"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:accrualPeriodicity": {
+                "@id": "frequency:IRREG"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_dataset:codelijst-kleur.0.1.1"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/dataset/codelijst-kleur.0.1.1.html"
+            },
+            "dcterms:language": {
+                "@id": "language:NLD"
+            },
+            "dcat:landingPage": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/catalog/codelijst.html"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcat:distribution": [
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_xsd"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_ttl"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_rdf"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_jsonld"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_csv"
+                },
+                {
+                    "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur.0.1.1"
+                }
+            ],
+            "owl:versionInfo": "0.1.1",
+            "dc:language": {
+                "@language": "nl",
+                "@value": "nl"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.dataset.codelijst-kleur.0.1.1",
+            "void:rootResource": {
+                "@id": "omg_conceptscheme:kleur"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur"
+            },
+            "dcterms:alternative": {
+                "@language": "nl",
+                "@value": "Dataset codelijst kleur"
+            },
+            "dcterms:spatial": [
+                {
+                    "@id": "https://www.geonames.org/3337388/flanders"
+                },
+                {
+                    "@id": "country:BEL"
+                }
+            ],
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Deze dataset bevat een lijst van testconcepten, die gebruikt worden binnen het beleidsdomein bodemenondergrond van de Vlaamse Overheid."
+            },
+            "dcterms:issued": {
+                "@value": "2023-09-21",
+                "@type": "xsd:date"
+            }
+        },
+        {
+            "@id": "omg_dataset:codelijst-kleur.0.1.0",
+            "void:rootResource": {
+                "@id": "omg_conceptscheme:kleur"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.dataset.codelijst-kleur.0.1.0",
+            "dcterms:isVersionOf": {
+                "@id": "omg_dataset:codelijst-kleur"
+            },
+            "dcterms:alternative": {
+                "@language": "nl",
+                "@value": "Dataset codelijst kleur"
+            },
+            "dcat:distribution": [
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_rdf"
+                },
+                {
+                    "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur.0.1.0"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_jsonld"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_csv"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_ttl"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_xsd"
+                }
+            ],
+            "dcterms:temporal": {
+                "@id": "omg_id:periodoftime/dataset_omg"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "datatheme_eu:ENVI"
+                },
+                {
+                    "@id": "datatheme_be:ENVI"
+                },
+                {
+                    "@id": "eurovoc:2407"
+                },
+                {
+                    "@id": "gemet:10087"
+                }
+            ],
+            "dcterms:publisher": {
+                "@id": "ovo:OVO003323"
+            },
+            "dcat:landingPage": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/catalog/codelijst.html"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur (0.1.0)"
+            },
+            "@type": "dcat:Dataset",
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Deze dataset bevat een lijst van testconcepten, die gebruikt worden binnen het beleidsdomein bodemenondergrond van de Vlaamse Overheid."
+            },
+            "owl:versionInfo": "0.1.0",
+            "dcterms:language": {
+                "@id": "language:NLD"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:spatial": [
+                {
+                    "@id": "https://www.geonames.org/3337388/flanders"
+                },
+                {
+                    "@id": "country:BEL"
+                }
+            ],
+            "dcterms:accrualPeriodicity": {
+                "@id": "frequency:IRREG"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur"
+            },
+            "dcterms:license": {
+                "@id": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0"
+            },
+            "dcat:contactPoint": {
+                "@id": "omg_id:vcard/helpdesk"
+            },
+            "dc:language": {
+                "@language": "nl",
+                "@value": "nl"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/dataset/codelijst-kleur.0.1.0.html"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_dataset:codelijst-kleur.0.1.0"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_ttl",
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.1.kleur_ttl.html"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in Turtle bestand."
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in Turtle rdf-formaat."
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur.ttl"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in Turtle rdf-formaat."
+            },
+            "dcterms:issued": {
+                "@value": "2023-09-21",
+                "@type": "xsd:date"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/turtle"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            },
+            "dcterms:format": {
+                "@id": "file_type:RDF_TURTLE"
+            },
+            "@type": "dcat:Distribution",
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_ttl"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur_ttl",
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_csv",
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur_csv",
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.0.kleur_csv.html"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in csv tabelformaat."
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in text/csv formaat."
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur.csv"
+            },
+            "dcterms:format": {
+                "@id": "file_type:CSV"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_csv"
+            },
+            "@type": "dcat:Distribution",
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/csv"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in text/csv formaat."
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_rdf",
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.0.kleur_rdf.html"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "@type": "dcat:Distribution",
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/rdf+xml"
+            },
+            "dcterms:format": {
+                "@id": "file_type:RDF_XML"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in rdf/xml bestand."
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in xml rdf-formaat."
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur.rdf"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in xml rdf-formaat."
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_rdf"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur_rdf"
+        },
+        {
+            "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur.0.1.0",
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur.0.1.0"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Package codelijst-kleur"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, Jar maven package."
+            },
+            "@type": [
+                "spdx:Package",
+                "dcat:Distribution"
+            ],
+            "spdx:packageName": "be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur",
+            "spdx:versionInfo": "0.1.0",
+            "spdx:packageFileName": "codelijst-kleur-0.1.0.jar",
+            "dcterms:format": {
+                "@id": "file_type:JAR"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in jar-formaat."
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur.0.1.0",
+            "spdx:downloadLocation": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/bodemenondergrond/data/id/graph/codelijst-kleur/0.1.0/codelijst-kleur-0.1.0.jar"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/bodemenondergrond/data/id/graph/codelijst-kleur/0.1.0/codelijst-kleur-0.1.0.jar"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_jsonld",
+            "@type": "dcat:Distribution",
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/ld+json"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in jsonld rdf-formaat."
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in jsonld rdf-formaat."
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur.jsonld"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:format": {
+                "@id": "file_type:JSON_LD"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.0.kleur_jsonld.html"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_jsonld"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur_jsonld",
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in een jsonld bestand."
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_ttl",
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcterms:format": {
+                "@id": "file_type:RDF_TURTLE"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur.ttl"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur_ttl",
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in Turtle bestand."
+            },
+            "@type": "dcat:Distribution",
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/turtle"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.0.kleur_ttl.html"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_ttl"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in Turtle rdf-formaat."
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in Turtle rdf-formaat."
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_xsd",
+            "@type": "dcat:Distribution",
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur_xsd",
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/xml"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.0.kleur_xsd"
+            },
+            "dcterms:format": {
+                "@id": "file_type:XSD"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in een xsd bestand met een enumeratie."
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.0.kleur_xsd.html"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in xml xsd-formaat."
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in xml/xsd formaat."
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.0.kleur.xsd"
+            }
+        },
+        {
+            "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur.0.1.1",
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:issued": {
+                "@value": "2023-09-21",
+                "@type": "xsd:date"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, Jar maven package."
+            },
+            "dcat:downloadURL": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/bodemenondergrond/data/id/graph/codelijst-kleur/0.1.1/codelijst-kleur-0.1.1.jar"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in jar-formaat."
+            },
+            "@type": [
+                "spdx:Package",
+                "dcat:Distribution"
+            ],
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur.0.1.1",
+            "spdx:versionInfo": "0.1.1",
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Package codelijst-kleur"
+            },
+            "spdx:downloadLocation": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/bodemenondergrond/data/id/graph/codelijst-kleur/0.1.1/codelijst-kleur-0.1.1.jar"
+            },
+            "spdx:packageName": "be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur",
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:format": {
+                "@id": "file_type:JAR"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-kleur.0.1.1"
+            },
+            "spdx:packageFileName": "codelijst-kleur-0.1.1.jar"
+        },
+        {
+            "@id": "omg_catalog:codelijst",
+            "dcat:dataset": {
+                "@id": "omg_dataset:codelijst-kleur"
+            },
+            "@type": "dcat:Catalog"
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_xsd",
+            "dcterms:format": {
+                "@id": "file_type:XSD"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in een xsd bestand met een enumeratie."
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_xsd"
+            },
+            "@type": "dcat:Distribution",
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur_xsd",
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in xml xsd-formaat."
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.1.kleur_xsd.html"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in xml/xsd formaat."
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur.xsd"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/xml"
+            },
+            "dcterms:issued": {
+                "@value": "2023-09-21",
+                "@type": "xsd:date"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_csv",
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur.csv"
+            },
+            "dcterms:format": {
+                "@id": "file_type:CSV"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/csv"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.1.kleur_csv.html"
+            },
+            "dcterms:issued": {
+                "@value": "2023-09-21",
+                "@type": "xsd:date"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur_csv",
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_csv"
+            },
+            "@type": "dcat:Distribution",
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in text/csv formaat."
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in csv tabelformaat."
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in text/csv formaat."
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_jsonld",
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur.jsonld"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/ld+json"
+            },
+            "dcterms:issued": {
+                "@value": "2023-09-21",
+                "@type": "xsd:date"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.1.kleur_jsonld.html"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in jsonld rdf-formaat."
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur_jsonld",
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_jsonld"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in een jsonld bestand."
+            },
+            "dcterms:format": {
+                "@id": "file_type:JSON_LD"
+            },
+            "@type": "dcat:Distribution",
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in jsonld rdf-formaat."
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_rdf",
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/rdf+xml"
+            },
+            "dcterms:issued": {
+                "@value": "2023-09-21",
+                "@type": "xsd:date"
+            },
+            "dcterms:format": {
+                "@id": "file_type:RDF_XML"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-kleur.git"
+            },
+            "@type": "dcat:Distribution",
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur.rdf"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-kleur.0.1.1.kleur_rdf.html"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-kleur.0.1.1.kleur_rdf"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst kleur in xml rdf-formaat."
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, geserialiseerd in rdf/xml bestand."
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst kleur, in xml rdf-formaat."
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-kleur.0.1.1.kleur_rdf"
+        }
+    ],
+    "@context": {
+        "country": "http://publications.europa.eu/resource/authority/country/",
+        "formats": "http://www.w3.org/ns/formats/",
+        "spdx": "http://spdx.org/rdf/terms#",
+        "omg_catalog": "https://data.omgeving.vlaanderen.be/id/catalog/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "ssd": "http://www.w3.org/ns/sparql-service-description#",
+        "omg_graphcollection": "https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "datatheme_eu": "http://publications.europa.eu/resource/authority/data-theme/",
+        "eurovoc": "http://eurovoc.europa.eu/",
+        "language": "http://publications.europa.eu/resource/authority/language/",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "omg_id": "https://data.bodemenondergrond.vlaanderen.be/id/",
+        "access_right": "http://publications.europa.eu/resource/authority/access-right/",
+        "omg_dataset": "https://data.bodemenondergrond.vlaanderen.be/id/dataset/",
+        "frequency": "http://publications.europa.eu/resource/authority/frequency/",
+        "sd": "http://www.w3.org/ns/sparql-service-description#",
+        "omg_collection": "https://data.bodemenondergrond.vlaanderen.be/id/collection/",
+        "omg_periodoftime": "https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/",
+        "file_type": "http://publications.europa.eu/resource/authority/file-type/",
+        "dcterms": "http://purl.org/dc/terms/",
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "assettype": "http://purl.org/adms/assettype/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "omg_dataservice": "https://data.bodemenondergrond.vlaanderen.be/id/dataservice/",
+        "void": "http://rdfs.org/ns/void#",
+        "adms": "http://www.w3.org/ns/adms#",
+        "gemet": "http://www.eionet.europa.eu/gemet/concept/",
+        "omg_named_graph": "https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/",
+        "omg_vcard": "https://data.bodemenondergrond.vlaanderen.be/id/vcard/",
+        "ovo": "http://data.vlaanderen.be/id/organisatie/",
+        "vcard": "http://www.w3.org/2006/vcard/ns#",
+        "omg_ontology": "https://data.bodemenondergrond.vlaanderen.be/id/ontology/",
+        "omg_graph": "https://data.bodemenondergrond.vlaanderen.be/id/graph/",
+        "omg_distribution": "https://data.bodemenondergrond.vlaanderen.be/id/distribution/",
+        "omg_service": "https://data.bodemenondergrond.vlaanderen.be/id/service/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "datatheme_be": "http://vocab.belgif.be/auth/datatheme/",
+        "omg_conceptscheme": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "omg_package": "https://data.bodemenondergrond.vlaanderen.be/id/package/",
+        "dc": "http://purl.org/dc/elements/1.1/"
+    }
+}
