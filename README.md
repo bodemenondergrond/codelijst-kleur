@@ -15,7 +15,7 @@ Het project bevat ook tools om deze lijst te beheren en om te zetten naar webfor
 Het version element in het pom.xml bestand bevat het 'SNAPSHOT'-versienummer van de nieuwe release waarop gewerkt wordt.
 Voorbeeld: Indien '1.0.0' de huidige release is en '2.0.0' is het versienummer van de nieuwe release waarop gewerkt wordt, dan is '2.0.0-SNAPSHOT' het versienummer in het pom.xml bestand.
 ### Wijzigingen aan de codelijst doorvoeren
-Pas het bron CSV bestand van de codelijst aan (src/main/resources/source/codelijst_source.csv).
+Pas het bron CSV bestand van de codelijst aan (src/source/codelijst-source.csv).
 
 Voorbeeld: Voeg een definitie van een nieuwe code in de codelijst toe.
 
