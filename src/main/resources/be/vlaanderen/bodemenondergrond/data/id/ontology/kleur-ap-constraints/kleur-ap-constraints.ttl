@@ -51,9 +51,9 @@ omg_voc:kleur
 # Node Shapes
 ons:schema
     a                sh:NodeShape ;
-    rdfs:label       "conceptschema van kleurs"@en ;
-    sh:name          "conceptschema van kleurs"@en ;
-    sh:description   "Het schema waarbinnen de kleurs gedefinieerd zijn"@en ;
+    rdfs:label       "conceptschema van kleur"@en ;
+    sh:name          "conceptschema van kleur"@en ;
+    sh:description   "Het schema waarbinnen de kleuren gedefinieerd zijn"@en ;
     rdfs:isDefinedBy omg_ont:kleur, omg_voc:kleur ;
     sh:property      omg_ps:conceptscheme_prefLabel, omg_ps:schema_hasTopConcept, omg_ps:dc_identifier, omg_ps:notation, omg_ps:note,
                      omg_ps:definition, omg_ps:rdf_type;
@@ -66,7 +66,7 @@ ons:collection
     a                sh:NodeShape ;
     rdfs:label       "verzameling"@en ;
     sh:name          "verzameling"@en ;
-    sh:description   "Verzamelingen bundelen kleurs met gelijkaardige eigenschappen, analysemethoden of kleurs waarin ze gemeten worden."@en ;
+    sh:description   "Verzamelingen bundelen kleur met gelijkaardige eigenschappen, analysemethoden of kleur waarin ze gemeten worden."@en ;
     rdfs:isDefinedBy omg_ont:kleur, omg_voc:kleur ;
     sh:property      omg_ps:prefLabel, omg_ps:collection_member, omg_ps:dc_identifier, omg_ps:notation,
                      omg_ps:inScheme, omg_ps:rdf_type;
